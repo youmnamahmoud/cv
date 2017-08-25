@@ -1,0 +1,108 @@
+.wrap {
+    width: 100%;
+}
+
+.floatleft {
+    float:left; 
+    width: 50%;
+    height: 400px;
+}
+
+.floatright {
+float: right;
+    height: 400px;
+    width: 50%;
+}
+ 
+#name {
+     font-size:25px;
+margin: 0px 0px 0px 40px;
+ }   
+#sur {
+     font-size:25px;
+     font-weight:bold;
+margin: 0px 0px 0px 30px;
+     } 
+#job {
+  font-size:18px;
+  font-weight:normal;
+  margin: 0px 0px 0px 30px;
+}
+
+ #dif1 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: steelblue;
+}
+
+#dif2 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: steelblue;
+}
+
+#dif3 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: steelblue;
+}
+
+#dif4 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+   background:steelblue;
+}
+
+#dif5 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+   background:steelblue;
+}
+
+
+
+
+* {box-sizing:border-box}
+
+
+.html {width: 80%; 
+      background-color: steelblue;
+      text-align: right; 
+      padding-right: 20px; 
+      line-height: 40px; 
+      color: white; } 
+.css {width: 70%; background-color: steelblue;
+    text-align: right; 
+    padding-right: 20px; 
+    line-height: 40px; 
+    color: white; 
+} 
+.py {width: 60%; background-color: steelblue;
+    text-align: right; 
+    padding-right: 20px; 
+    line-height: 40px; 
+    color: white; 
+} 
+.cpp {width: 75%; background-color: steelblue;    text-align: right; 
+    padding-right: 20px; 
+    line-height: 40px; 
+    color: white; 
+} 
+
+
+
+
+
+
+.filled-circle {
+  padding: 2px 11px;
+  border-radius: 100%;
+  background-color: steelblue;
+}    
+
+
